@@ -4,3 +4,13 @@
   padding: 20px;
   text-align: center;
 }
+.ThptNQ{
+  background-color:black;
+  color:white;
+}
+.ThptNQ a {
+  color:white;
+}
+.ThptNQ a: hover {
+  background-color:red;
+}
